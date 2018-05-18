@@ -2,9 +2,7 @@ const express = require('express');
 
 //App router
 const router = express.Router();
-
-
-        
+ 
 router.post('/register',(req,res,next)=>{
     res.send('register page');
 });
