@@ -1,0 +1,21 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "mean project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "^1.18.3",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*"
+  },
+  "author": "kumaresan",
+  "license": "ISC"
+}
