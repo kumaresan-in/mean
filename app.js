@@ -39,6 +39,8 @@ app.get('/', (req, res) =>{
     res.send('Mean Stack Kick Start');
 });
 
+
+//server port test
 app.listen(port,()=>{
     console.log('server started on'+port);
 });
