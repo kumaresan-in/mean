@@ -1,2 +1,2 @@
 # MEAN Stack
-test app
+Test App
