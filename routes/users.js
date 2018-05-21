@@ -2,6 +2,11 @@ const express = require('express');
 
 //App router
 const router = express.Router();
+
+const passport = require('passport');
+const jwt = require('jsonwebtoken');
+
+const User = require('../models/user');
  
 router.post('/register',(req,res,next)=>{
     res.send('register page');
