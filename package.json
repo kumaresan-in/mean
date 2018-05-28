@@ -1,7 +1,7 @@
 {
   "name": "mean",
   "version": "1.0.0",
-  "description": "mean project setup",
+  "description": "mean project",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
